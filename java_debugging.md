@@ -16,4 +16,4 @@ Debugger moves into the method on the line and examines it.
 
 5)What is the difference between evaluate expression and evaluate code fragment?
 
-Evaluate expression allows you to run a piece of java code such as a method on a previously declared instance variable. Code fragment evaluation runs multiple pieces of java code in the evaluate expression part of the debugger console, as well as allowing you to create temporary variable in the console to store values. 
+Evaluate expression allows you to run a piece of java code such as a method on a previously declared instance variable. Code fragment evaluation runs multiple pieces of java code in the evaluate expression part of the debugger console, as well as allowing you to create temporary variables in the console to store values. 
